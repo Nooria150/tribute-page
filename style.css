@@ -1,19 +1,19 @@
-image{
-    display: block;
-    max-width: 100%;
-    height: auto;
-  }
-  
+image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+ }
+ 
 h1 {
-    font-size: 70px;
-    text-align: center;
-}
+  font-size: 70px;
+  text-align: center;
+ }
 
 * {
   font-size: 20px; 
   text-align: center;
   margin-left: 65px;
   margin-right: 60px;
-  margin-top: 1.0%;
+  margin-top: 1.0px;
   margin-bottom: 0;
 }
