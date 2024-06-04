@@ -3,6 +3,8 @@
 ## Project Description 📝
 this is a tribute page. which is about summer. one of my favorte season.
 
+- live link: https://nooria150.github.io/tribute-page/
+
 ## Technologies Used 🛠️
 
 - HTML
