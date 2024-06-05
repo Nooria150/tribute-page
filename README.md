@@ -3,7 +3,7 @@
 ## Project Description 📝
 this is a tribute page. which is about summer. one of my favorte season.
 
-- live link: https://nooria150.github.io/tribute-page/
+- [live demo](https://nooria150.github.io/tribute-page/)
 
 ## Technologies Used 🛠️
 
@@ -29,5 +29,5 @@ code .
 
 ## Author 👩‍💻
 
-- Email: nooriamangal55@gmail.com
+- [email](nooriamangal55@gmail.com)
 
